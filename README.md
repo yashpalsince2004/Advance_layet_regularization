@@ -56,7 +56,7 @@ This notebook provides an in-depth explanation of **Advanced Layers in TensorFlo
 
 1. **Clone this repository**  
 ```bash
-git clone https://github.com//tensorflow-hinglish-series.git
+https://github.com/yashpalsince2004/Advance_layet_regularization.git
 cd tensorflow-hinglish-series
 ```
 
