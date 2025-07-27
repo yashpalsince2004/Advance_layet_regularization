@@ -56,7 +56,7 @@ This notebook provides an in-depth explanation of **Advanced Layers in TensorFlo
 
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/your-username/tensorflow-hinglish-series.git
+git clone https://github.com//tensorflow-hinglish-series.git
 cd tensorflow-hinglish-series
 ```
 
@@ -121,5 +121,5 @@ Feel free to use, distribute, and modify with proper attribution.
 ## ✍️ Author
 
 - **Yash [👨‍💻 Computer Science | AI & ML | Engineer]**
-- GitHub: [your-github](https://github.com/your-username)
-- Connect on LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- GitHub: [Yash Pal](https://github.com/your-username)
+- Connect on LinkedIn: [Yash Pal](https://linkedin.com/in/your-profile)
